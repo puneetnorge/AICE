@@ -5,6 +5,7 @@ https://aiceproject.eu/
 
 ## Code used for the paper titled "Using deep learning for predicting cleansing quality of colon capsule endoscopy images"
 Paper on arxiv https://arxiv.org/abs/2601.13412
+
 The code was developed in Google Colab.
 
 
