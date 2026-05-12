@@ -1,9 +1,9 @@
 # Code development and use as part of the AICE project
-AI-Supported Image Analysis in Large Bowel Camera Capsule Endoscopy (## AICE)
+AI-Supported Image Analysis in Large Bowel Camera Capsule Endoscopy (AICE)
 ## https://aiceproject.eu/
-## The code was developed in Google Colab.
+The code was developed in Google Colab.
 
-## Code used for the paper titled "Using deep learning for predicting cleansing quality of colon capsule endoscopy images" **
+Code used for the paper titled "Using deep learning for predicting cleansing quality of colon capsule endoscopy images" **
 
 ## Paper on arxiv https://arxiv.org/abs/2601.13412
 
